@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens dinamicas</title>
+</head>
+<body>
+    <h1>Imagens dinâmicas</h1>
+    <p>Tente abrir este site de vários dispositivos ou diminua o zoom do seu navegador</p>
+     <picture>
+         <source media="(max-width: 750px)" srcset="imagens/p.png" type="image/png">     <!--forma mais simples-->
+         <source media="(max-width: 1050px)" srcset="imagens/m.png" type="image/png">
+         <img src="imagens/g.png" alt="Imagem flexível">
+     </picture>
+    <h1>Áudio</h1>
+    <p>Vamos escutar alguns áudios</p>
+    <audio src="midia/snowy.mp3" controls autoplay loop></audio>
+    <!--MP3 WAV OGG-->
+    <audio preload="metadata" controls >  <!--AUTO= CARREGA TUDO/ METADATA = CARREGA INFORMAÇÕES EXCENCIAIS/ NONE= CARREGA NADA -->
+        <source src="midia/podcast.mp3" type="audio/mpeg"><!--AUTOPLAY = COMEÇA A TOCAR AO ENTRAR NO SITE-->
+        <source src="midia/podcast.wav" type="audio/wav"> <!--A ORDEM É IMPORTANTE, POIS SERÁ CARREGADO NA ORDEM PELO NAVEGADOR-->
+        <source src="mida/podcast.ogg" type="audio/ogg">  <!--LOOP = AUDIO EM LOOP-->
+    </audio>
+    <P>
+        Infelizmente o seu navegador não é compatível com o link
+            <a href="midia/podcast.mp3">Clique aqui para baixar o arquivo em MP3</a>
+    </P>
+</body>
+</html>

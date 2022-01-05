@@ -1,0 +1,31 @@
+@charset "UFT-8";
+/* ID EM HTML = # EM CSS
+CLASS EM HTML = . EM CSS */
+body{
+    background-color: rgba(5, 134, 134, 0.753);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+color: aqua;
+}
+h1#principal {
+text-align: center;
+color: white;
+}
+h2{
+    color: aquamarine;
+
+}
+.basico{
+color: rgb(167, 184, 141);
+font-weight: bolder;
+}
+.intermediario{
+color: rgb(122, 97, 235);
+}
+.avancado{
+color:rgba(225, 17, 252, 0.767) ;
+}
+.destaque {
+    background-color: hotpink;
+}

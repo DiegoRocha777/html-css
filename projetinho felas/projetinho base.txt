@@ -1,0 +1,57 @@
+História do CSGO
+
+A história de Counter-Strike começou em meados de 1996, quando um desenvolvedor de 
+jogos vietnamita chamado Minh Le conheceu o jogo Quake, ele nasceu de um simples mod, e 
+poucos apostariam que se tornaria 
+um grande sucesso. Mas uma empresa acreditou em seu sucesso:a toda-poderosa Valve.
+foi um dos responsáveis pela popularização das LAN Houses em todo o mundo. Além disso, 
+graças a Counter-Strike, uma nova modalidade nasceu entre as pessoas que jogavam muito 
+e se dedicavam mais que o normal: O esporte eletrônico. 
+Tudo isso porque Counter-Strike foi o pivô de várias disputas entre equipes de jogadores, 
+que com grandes sessões de treinamento, conseguiam conduzir um time com uma organização 
+impressionante, onde para cada membro do time, uma função específica era atribuída.
+
+Quake 
+Quake é um jogo de computador de tiro em primeira pessoa, criado pela Id Software e lançado em 1996. 
+Devido à sua popularidade, ele se tornaria o primeiro jogo da série Quake
+Quake ficou famoso por ser o primeiro jogo com todos os gráficos modelados em 3D, 
+visto que outros jogos de tiro utilizavam imagens em 2D e não possuíam total tridimensionalidade 
+(faltavam salas posicionadas uma sobre a outra e olhar para cima e para baixo, por exemplo). 
+Isso se deve a um motor de jogo programado por John Carmack com a ajuda do redator técnico 
+Michael Abrash (que ajudou a renderização a ser efetuada rapidamente).
+
+Half-Life
+Após o Quake, a VALVE insvestiu no Half-life, um jogo eletrônico de ficção científica
+onde os jogadores assumem o papel de Dr. Gordon Freeman, um físico teórico que deve lutar 
+para fugir de um centro de pesquisa secreto e subterrâneo cujos experimentos e pesquisas 
+com tecnologia de teletransporte tiveram resultados desastrosos.
+Inicialmente lançado em 1998 pela Sierra Studios para computadores pessoais que utilizam Windows, 
+foi posteriormente lançado para PlayStation 2.[2] Conversões para Mac OS X e Linux também tornaram-se 
+disponíveis somente em janeiro de 2013.
+
+Counter-Strike 1.6
+Counter-Strike (também conhecido como CS) é um popular jogo eletrônico de tiro em primeira pessoa (FPP). 
+Inicialmente criado como um "mod" de Half-Life para jogos online, foi desenvolvido por Minh Le e Jess Cliffe 
+e depois adquirido pela Valve Corporation. Foi lançado em 1999, porém em 2000 ele começou a ser comercializado 
+oficialmente. O jogo é baseado em rodadas nas quais equipes de contraterroristas e terroristas combatem-se até a 
+eliminação completa de um dos times, e tem como objetivo principal plantar e desarmar bombas, ou sequestrar e salvar reféns.
+
+Counter-Strike Global Offensive
+Counter-Strike: Global Offensive (CS:GO) é um jogo online desenvolvido pela Valve Corporation e pela Hidden Path Entertainment.
+O jogo conta com conteúdo clássico de tiro, como versões retrabalhadas de mapas clássicos, bem como novos mapas, personagens e modos de jogo.
+De acordo com o portal para o submundo, o Counter-Strike: Global Offensive foi o jogo mais vendido pelo Steam no Brasil, no ano de 2015. 
+Segundo a matéria, brasileiros compraram mais de 205 mil cópias do jogo da Valve entre abril e dezembro de 2015.
+
+O Brasil no CS:GO
+O Brasil é um dos principais países no cenário competitivo de Counter-Strike: Global Offensive (CS:GO). 
+Além do jogo ser um verdadeiro sucesso entre os jogadores casuais, os pro players brasileiros estão entre os melhores do mundo e 
+já receberam prêmios e conquistaram títulos mundiais.  
+Em 2016 o Brasil foi campeão dos campeonatos MLG Major Championship Columbus 2016 e ESL One Cologne 2016, os maiores campeonatos dentro do jogo, com a seguinte escalação: 
+Epitácio "TACO" de Melo, Marcelo "coldzera" David, Fernando "fer" Alvarenga, 
+Gabriel "FalleN" Toledo e Lincoln "fnx" Lau, além disso trouxe muitas conquistas para o Brasil no CS:GO Liderado por FalleN, 
+o quinteto conquistou ambos os torneios majors no mesmo ano, mas um pela Luminosity Gaming e outro pela SK Gaming. 
+Além da premiação de US$ 500 mil (cerca de R$ 1,9 milhão em conversão direta) nos dois torneios, a line up trouxe visibilidade para o Brasil no cenário competitivo de CS:GO.
+
+
+
+

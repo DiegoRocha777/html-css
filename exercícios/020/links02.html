@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        body{
+            color: rgba(33, 15, 138, 0.918);
+        }
+        a{
+            text-decoration: none;
+            color: skyblue;
+            font-weight: bold;
+        }
+        a:visited{
+            color: darkblue;
+
+        }
+        a:hover{
+            color: darkslateblue;
+            text-decoration: underline;
+
+        }
+        .especial::before{
+            color: seagreen;
+
+        }
+        a:active{
+            color: red;
+        }
+        a::before{
+            content: '\21DA' ;
+        }
+        a::after{
+            content: '\27A4'; ;
+        }
+    </style>
+</head>
+<body>
+    <h1>Links personalizados</h1>
+    <ul>
+        
+        <a href="https://instagram.com/eldiegorocha" class="especial" target="_blank">
+            <li>Meu instagram</li>
+        </a>
+        
+        <a href="https://twitter.com/diegorochw">
+            <li>Meu twitter</li>
+        </a>
+        <a href="https://twitch.tv/d1egwww">
+            <li>Minha twitch</li>
+        </a>
+    </ul>
+    
+</body>
+</html>
+
+    
+    
+        /* 
+        # = id
+        . = class
+        ; = pseudo-class
+        :: = pseudo-element
+        > = clildren
+        */

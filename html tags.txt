@@ -1,0 +1,44 @@
+! = início
+h1 = título
+hr = linha horizontal ( n tem fechamento)
+p = parágrafo 
+&lt E &gt = tags com < e >
+br = queabra de linha
+<!-- = anotações
+&reg; = marca registrada
+&copy; = copy
+&trade; = trade mark
+&euro = euro
+&pound = libras
+&yen = moeda japonesa
+%cents = centavos (dol)
+&Delta = triangulo (D maiúsculo)
+&uparrow (&uarr) = seta para cima
+&updownarrow = seta para baixo
+&#x (+codigo) = para adicionar um emoji
+img src="" alt="" = scr = arquivo (ctrl+espaço abre) e alt = comentário alternativo
+link favicon = adiciona um favicon na pagina 
+h1>h2>h3>h4 = hierarquia de títulos
+lorem = textos aleátorios
+address = endereço
+strong = letra forte, escura
+em = enfase/ italico
+mark = marcação em amarelo (style para mudar a cor)
+small = texto pequeno
+del = texto excluido
+ins = texto inserido
+sup = sobrescrito
+sub = subescrito
+code = letras com mesmo tamanho
+pre = organização baseada no vision code
+q = ""
+blockquote = citação com bloco
+abbr = marcação de um abreviação
+bdo = texto invertido
+ol = organização em lista
+li = numeração da lista (A,a,1,I,i)
+dl = lista de definição (dt = objeto a ser definido e dd definição)
+picture + source = imagem dinamica
+audio = audio+controls+autoplay
+source+scr = compatibilidade de midias e audio
+
