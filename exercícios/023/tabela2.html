@@ -15,6 +15,7 @@ table{
     width: 500px;
     border-collapse: collapse;
     text-align: center;
+    position: relative;
 }
 td, th{
  border: 1px solid black;
@@ -23,6 +24,11 @@ td, th{
  thead{
      background-color:black ;
      color: white;
+ }
+ thead > tr > th {
+    position: sticky; 
+    top: -1px;
+    background-color: black;
  }
  caption{
      background-color: darkgray;
